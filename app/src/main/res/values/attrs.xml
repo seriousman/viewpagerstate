@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ViewPagerNestable">
+        <attr name="enable_swipe" format="boolean" />
+        <attr name="enable_parent_swipe" format="boolean" />
+    </declare-styleable>
+
+</resources>
